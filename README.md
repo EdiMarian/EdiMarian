@@ -1,19 +1,19 @@
-﻿# Bine ați venit pe profilul meu GitHub!
+# Welcome to my GitHub profile!
 
-## Despre mine
+## About me
 
-Sunt un dezvoltator web pasionat în vârstă de 19 ani care lucrează la estar.games, o companie ce dezvoltă un ecosistem de jocuri play to earn pe blockchain-ul celor de la MultiversX. În cadrul companiei, am dobândit cunoștințe solide în dezvoltarea de jocuri web folosind JavaScript, React, CSS, HTML și NestJS, dar și în dezvoltarea de Smart Contracts folosind limbajul de programare Rust.
+I am a passionate 19-year-old web developer working at estar.games, a company that develops a play-to-earn game ecosystem on the MultiversX blockchain. Within the company, I have gained solid knowledge in web game development using JavaScript, React, CSS, HTML, and NestJS, as well as in Smart Contracts development using the Rust programming language.
 
-## Proiecte
+## Projects
 
-În timpul meu liber, îmi place să dezvolt proiecte personale pentru a-mi extinde cunoștințele și pentru a îmi demonstra abilitățile de programare.
+In my free time, I like to develop personal projects to expand my knowledge and demonstrate my programming skills.
 
-## Cunoștințe și experiență
+## Skills and experience
 
-În timpul meu la estar.games, am dobândit experiență în:
+During my time at estar.games, I have gained experience in:
 
-- Dezvoltarea jocurilor web pe blockchain-ul celor de la MultiversX folosind JavaScript, React, CSS, HTML și NestJS, dar și în dezvoltarea de Smart Contracts folosind limbajul de programare Rust.
-- Gestionarea proiectelor, inclusiv planificarea, dezvoltarea și lansarea lor în producție.
-- Comunicarea și colaborarea cu membrii echipei pentru a asigura livrarea unui produs de calitate.
+﻿ Developing web games on the MultiversX blockchain using JavaScript, React, CSS, HTML, and NestJS, as well as in Smart Contracts development using the Rust programming language.
+﻿ Project management, including planning, development, and production release.
+﻿ Communicating and collaborating with team members to ensure the delivery of a quality product.
 
-Mulțumesc că ați vizitat profilul meu GitHub!
+Thank you for visiting my GitHub profile!
