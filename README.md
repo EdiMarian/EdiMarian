@@ -12,8 +12,8 @@ In my free time, I like to develop personal projects to expand my knowledge and 
 
 During my time at estar.games, I have gained experience in:
 
-﻿ Developing web games on the MultiversX blockchain using JavaScript, React, CSS, HTML, and NestJS, as well as in Smart Contracts development using the Rust programming language.
-﻿ Project management, including planning, development, and production release.
-﻿ Communicating and collaborating with team members to ensure the delivery of a quality product.
+- Developing web games on the MultiversX blockchain using JavaScript, React, CSS, HTML, and NestJS, as well as in Smart Contracts development using the Rust programming language.
+- Project management, including planning, development, and production release.
+- Communicating and collaborating with team members to ensure the delivery of a quality product.
 
 Thank you for visiting my GitHub profile!
