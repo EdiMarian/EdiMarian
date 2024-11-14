@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a 20-year-old passionate web developer working at https://multi-fights.com, a play-to-earn game on the MultiversX blockchain. At Estar.Games, I gained solid knowledge in developing web games using JavaScript, React, CSS, HTML and NestJS, as well as developing Smart Contracts using the Rust programming language.
+I'm a 21-year-old passionate web developer working at https://multi-fights.com, a play-to-earn game on the MultiversX blockchain. At Estar.Games, I gained solid knowledge in developing web games using JavaScript, React, CSS, HTML and NestJS, as well as developing Smart Contracts using the Rust programming language.
 
 ## Projects
 
